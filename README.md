@@ -1,3 +1,3 @@
 # react-native calculator
-######npx react-native start
-######npx react-native run-android
+<p>npx react-native
+<p>npx react-native run-android
